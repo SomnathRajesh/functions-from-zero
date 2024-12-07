@@ -5,3 +5,6 @@ black
 ipython
 wikipedia
 fire
+fastapi
+pydantic
+uvicorn[standard]
